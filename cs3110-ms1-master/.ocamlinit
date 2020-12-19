@@ -1,0 +1,7 @@
+#require "ounit2";;
+#require "ANSITerminal";;
+#require "Thread";;
+#directory "_build";;
+#load "main.cmo";;
+#load "level.cmo";;
+#load "gamestate.cmo";;

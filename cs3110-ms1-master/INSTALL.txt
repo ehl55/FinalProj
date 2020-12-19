@@ -1,0 +1,6 @@
+Packages that need to be installed:
+No packages need to be installed. 
+
+Just type "make build" then "make play".
+
+To move the ship, press left or right directional key.

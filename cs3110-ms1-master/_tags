@@ -1,0 +1,4 @@
+true: package(ounit2),package(ANSITerminal)
+
+<main.ml> : thread
+<main.{native,byte}> : thread
